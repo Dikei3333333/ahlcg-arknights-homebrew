@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+    "name": "塞雷娅",
+    "description": "蓝家塞爹的调查员卡 小卡 专属 弱点 ",
+    "author": "Dikei",
+    "language": "zh",
+    "external_link": "",
+    "banner_url": "http://192.168.5.9/img/custom/1/b5a0e089425e736bd8a74e2820604d942dc618f15a48cd20394705cc3186c90f.webp",
+    "types": [
+      "investigators"
+    ],
+    "status": "final",
+    "date_updated": "2026-10-27T17:21:48.183131Z",
+    "generator": "Arkham Card Maker v3.4.1"
+  },
+  "data": {
+    "cards": [
+      {
+        "code": "B88418EC",
+        "position": 5,
+        "quantity": 1,
+        "name": "“盾牌”",
+        "subname": "源石技艺法杖",
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "text": "永久。塞雷娅牌库专用。\n[reaction]在你的回合结束时且钙质化不在手牌中：在本卡牌上放置1资源，作为技力。若钙质化在场，则改为不放置技力且移除钙质化上的1阻回。\n[free]使用3技力，并查找你的绑定卡牌：找出钙质化并加入你的手牌。\n[action]：<b>攻击</b>。你本次攻击得到+1[combat]且忽略反击关键词。如果你成功，你可以横置“盾牌”或使用1技力以使本次攻击造成伤害+1。",
+        "flavor": "",
+        "is_unique": true,
+        "illustrator": "明日方舟",
+        "pack_code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+        "slot": "Hand",
+        "traits": "道具. 武器. 近战. 守护.",
+        "restrictions": "investigator:F665DBB3",
+        "permanent": true,
+        "exceptional": false,
+        "myriad": false,
+        "exile": false,
+        "deck_limit": 1,
+        "image_url": "http://192.168.5.9/img/custom/1/a5d4737b0580a3f935b12334af32b2781f1e5d5eefc60ab8c546214f167b93b3.webp",
+        "thumbnail_url": "http://192.168.5.9/img/custom/1/a5d4737b0580a3f935b12334af32b2781f1e5d5eefc60ab8c546214f167b93b3.webp",
+        "double_sided": false
+      },
+      {
+        "code": "32E8D881",
+        "position": 7,
+        "quantity": 1,
+        "name": "家庭关系",
+        "type_code": "treachery",
+        "faction_code": "neutral",
+        "text": "塞雷娅牌库专用。\n<b>显现</b> - 放入你的威胁区。\n当此卡在你的威胁区时，当前地点其他调查员所受伤害不能因调查员效果分配给你，你也不能激活调查员的[reaction]能力。\n<b>强制</b> - 当你受到伤害或恐惧后，横置此卡：你额外受到1点伤害或恐惧。\n[action][action]：弃掉家庭关系。",
+        "flavor": "",
+        "is_unique": false,
+        "illustrator": "明日方舟",
+        "pack_code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+        "restrictions": "investigator:F665DBB3",
+        "permanent": false,
+        "exceptional": false,
+        "myriad": false,
+        "exile": false,
+        "subtype_code": "weakness",
+        "deck_limit": 1,
+        "image_url": "http://192.168.5.9/img/custom/1/9199af36a145495ac0b788a6715dbcb64d8c6be1fd9b878c3da85983c29584d7.webp",
+        "thumbnail_url": "http://192.168.5.9/img/custom/1/9199af36a145495ac0b788a6715dbcb64d8c6be1fd9b878c3da85983c29584d7.webp",
+        "double_sided": false
+      },
+      {
+        "code": "82A9EF99",
+        "position": 6,
+        "quantity": 1,
+        "name": "钙质化",
+        "subname": "",
+        "type_code": "asset",
+        "faction_code": "neutral",
+        "text": "绑定（“盾牌”）。\n使用（3阻回）。如果钙质化没有阻回，则将其放回绑定牌堆。\n[reaction]当前地点或任意连接地点的敌人受到伤害后：对其额外造成1伤害。\n[reaction]回合结束时：触发你的[elder_sign]效果，且对所有连接地点调查员均生效。\n<b>强制</b> - 当前地点和所有连接地点的所有敌人不可移动。\n<b>强制</b> - 当此卡因任意方式离场时，将其放回绑定牌堆。",
+        "flavor": "",
+        "is_unique": false,
+        "illustrator": "明日方舟",
+        "pack_code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+        "cost": 0,
+        "skill_wild": 4,
+        "traits": "法术. 守护.",
+        "permanent": false,
+        "exceptional": false,
+        "myriad": false,
+        "exile": false,
+        "deck_limit": 1,
+        "image_url": "http://192.168.5.9/img/custom/1/b414ac106a579177795f500263a9878f877768fa4515073a341df34891413a7a.webp",
+        "thumbnail_url": "http://192.168.5.9/img/custom/1/b414ac106a579177795f500263a9878f877768fa4515073a341df34891413a7a.webp",
+        "double_sided": false,
+        "bonded_to": "“盾牌”",
+        "bonded_count": 1
+      },
+      {
+        "code": "F665DBB3",
+        "position": 4,
+        "quantity": 1,
+        "name": "塞雷娅",
+        "subname": "前莱茵生命防卫科主任",
+        "type_code": "investigator",
+        "faction_code": "guardian",
+        "skill_willpower": 3,
+        "skill_intellect": 4,
+        "skill_combat": 5,
+        "skill_agility": 3,
+        "health": 9,
+        "sanity": 7,
+        "text": "你开始游戏时把“盾牌”（源石技艺法杖）放置入场。\n任何非直接伤害在分配到你所在地点的其他调查员卡牌之前，必须先分配给你。\n[reaction]在伤害分配给你时：取消该伤害中的1点。若伤害来源为当前地点的敌人，你可以再对其造成1点伤害。\n[elder_sign]：+2，治愈你所在地点的所有调查员和<i>盟友</i>支援1点伤害，且你所在地点的所有调查员获得2资源，抽1张牌。",
+        "flavor": "风暴中，唯保守者屹立不倒。",
+        "deck_limit": 1,
+        "double_sided": true,
+        "is_unique": true,
+        "illustrator": "明日方舟",
+        "pack_code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+        "traits": "监守. 学者. 医师.",
+        "back_name": "塞雷娅",
+        "back_subname": "前莱茵生命防卫科主任",
+        "back_text": "<b>牌库卡牌张数</b>：35。\n<b>牌库构筑选项</b>：守卫者卡牌([guardian])等级0-5，探求者卡牌([seeker])等级0-2，<b>洞察</b>卡牌等级0-2，<b>策略</b>卡牌等级0-2，中立卡牌等级0-5，流浪者([rogue]）和/或生存者（[survivor]）等级0最多5张。\n<b>牌库构筑需求</b>(不计入卡牌张数)：(不计入卡牌张数)：“盾牌”、战地医疗、“优质”的家庭关系、1张随机基础弱点。。\n",
+        "back_flavor": "“塞雷娅，原莱茵生命研究所实验组成员。至于现在……为了让偏离传统的事物回归正途，我需要罗德岛的协助。”\n“当塞雷娅女士举起盾牌时，她不是在保护身后的干员，她是在保护整支小队。”\n“塞雷娅是我在莱茵生命时的同事，在医疗领域很有权威性，但是她没有成为医疗干员，推测原因，她太硬了。”",
+        "deck_options": [
+          {
+            "id": "1",
+            "name": "蓝家",
+            "faction": [
+              "guardian"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "id": "2",
+            "name": "黄家",
+            "faction": [
+              "seeker"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "id": "3",
+            "name": "中立",
+            "faction": [
+              "neutral"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "id": "4",
+            "name": "洞察",
+            "trait": [
+              "洞察"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "id": "5",
+            "name": "策略",
+            "trait": [
+              "策略"
+            ],
+            "level": {
+              "min": 0,
+              "max": 2
+            }
+          },
+          {
+            "id": "6",
+            "name": "绿红5张",
+            "faction": [
+              "rogue",
+              "survivor"
+            ],
+            "level": {
+              "min": 0,
+              "max": 0
+            },
+            "limit": 5
+          }
+        ],
+        "deck_requirements": "size:35, card:B88418EC, card:32E8D881, card:A278BA66, random:subtype:basicweakness",
+        "permanent": false,
+        "exceptional": false,
+        "myriad": false,
+        "exile": false,
+        "image_url": "http://192.168.5.9/img/custom/1/06ece119ae89ebb7b5f54b8c68e338b55cbab7429d9c1d7ecb95ff83469efba6.webp",
+        "thumbnail_url": "http://192.168.5.9/img/custom/1/06ece119ae89ebb7b5f54b8c68e338b55cbab7429d9c1d7ecb95ff83469efba6.webp",
+        "back_image_url": "http://192.168.5.9/img/custom/1/ad292cda7d9142f59f985277aa5439886c69966d7bf80637a7fd807e47a0cea6.webp",
+        "back_thumbnail_url": "http://192.168.5.9/img/custom/1/ad292cda7d9142f59f985277aa5439886c69966d7bf80637a7fd807e47a0cea6.webp"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "326804b7-4867-4141-abb3-4bc447c4d62e",
+        "name": "塞雷娅",
+        "date_release": "2026-10-27"
+      }
+    ]
+  },
+  "encounter_sets": []
+}
