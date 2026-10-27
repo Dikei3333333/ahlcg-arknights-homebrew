@@ -26,7 +26,6 @@
 ## 🛠️ 安装与使用说明 (Installation & Usage)
 
 ###  在 arkham.build / 网页模拟器 中使用
-*(如果你有 JSON 文件，请在此处说明如何使用)*
 *   下载 `json` 文件夹中的对应文件。
 *   在 `arkham.build` 的设置中导入 Fan-made Content。
 *   创建卡组。
