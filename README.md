@@ -28,8 +28,9 @@
 ###  在 arkham.build / 网页模拟器 中使用
 *   下载 `json` 文件夹中的对应文件。
 *   在 `arkham.build` 的设置中导入 Fan-made Content。
-*   创建卡组。
+*   然后创建卡组，并导入模拟器中开始游玩。
 *   （如果你想要再网页版里有实际效果的游玩，请下载.hs的源码并重新编译后端，或者到已经部署好的网页端游玩）
+*   英文原仓库https://github.com/halogenandtoast/ArkhamHorror、国内汉化作者仓库https://github.com/Victorzhou1996/Arkham-Horror-Local-CN。给他们也star吧
 
 ## 🎨 设计理念 (Design Philosophy)
 *   **赫默**：依靠数据与医疗支援，体现学者的冷静与母亲的焦虑。
