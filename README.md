@@ -31,7 +31,7 @@
 *   然后创建卡组，并导入模拟器中开始游玩。
 *   （如果你想要再网页版里有实际效果的游玩，请下载.hs的源码并重新编译后端，或者到已经部署好的网页端游玩）
 *   英文原仓库https://github.com/halogenandtoast/ArkhamHorror
-*   国内汉化作者仓库https://github.com/Victorzhou1996/Arkham-Horror-Local-CN。
+*   国内汉化作者仓库https://github.com/Victorzhou1996/Arkham-Horror-Local-CN
 *   给他们也star吧
 
 ## 🎨 设计理念 (Design Philosophy)
